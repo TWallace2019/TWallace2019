@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TWallace2019
 - 👀 I’m interested in improving my technical skills for Data Analyst in Healthcare, Finance or Marketing
-- 🌱 I’m currently learning Google Data Analyst, I am really enjoying it, use my critical thinking, problem solving and exceptional interpersonal skills.
+- 🌱 I’m currently looking for a position as a Data Analyst, I am excited about my career change which will allow me to be innovative, and use my critical thinking, and problem-solving, with exceptional interpersonal skills.
 - 💞️ I’m looking to collaborate on projects to increase my technical skills
 - 📫 You can reach me via email
 
